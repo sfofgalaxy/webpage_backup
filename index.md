@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+![Me](./assets/img/home_photo.jpg)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
